@@ -10,7 +10,7 @@ I build practical software projects with a focus on Python, backend development,
 - Interested in software engineering, backend development, and technical problem solving
 - Building portfolio projects that demonstrate real implementation, documentation, and maintainable code
 
-## Featured Projects
+##  Projects
 
 ### [Turnfinder](https://github.com/yourusername/turnfinder)
 Full-stack web app for sharing and viewing off-season ski conditions in Colorado.
