@@ -34,8 +34,5 @@ Full-stack web app for sharing and viewing off-season ski conditions in Colorado
 - Improving GitHub project presentation and documentation
 - Preparing for software engineering internships
 
-## Links
-
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Resume](https://your-link-here)
-- Email: yourname@email.com
+## Email
+- Email: bhanson4@uccs.edu
