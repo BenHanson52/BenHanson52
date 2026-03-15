@@ -12,19 +12,15 @@ I build practical software projects with a focus on Python, backend development,
 
 ## Featured Projects
 
-### [Backcountry Planning App](https://github.com/yourusername/backcountry-planning-app)
-A planning tool for backcountry trips with route organization, gear tracking, and trip notes.  
-**Stack:** Python, Flask, SQLite, JavaScript  
-**Highlights:** interactive workflow, persistent data, real-world use case
+### [Turnfinder](https://github.com/yourusername/turnfinder)
+Full-stack web app for sharing and viewing off-season ski conditions in Colorado.
 
-### [Matrix Calculator](https://github.com/yourusername/matrix-calculator)
-A Python-based matrix calculator for linear algebra operations.  
-**Stack:** Python, NumPy  
-**Highlights:** matrix operations, row reduction, inverse/determinant logic
+**Stack:** JavaScript, Node.js, MariaDB, HTML/CSS, Leaflet, NGINX, PM2
 
-### [Campus Event Management System](https://github.com/yourusername/campus-event-management-system)
-A software engineering project focused on requirements, design, and structured documentation for a campus event platform.  
-**Highlights:** stakeholder analysis, system requirements, traceability, collaborative development
+**Highlights:**
+- Interactive map with user-created condition reports
+- Authentication, roles, and photo uploads
+- Real deployment on Linux with HTTPS and database-backed storage
 
 ## Tech
 
