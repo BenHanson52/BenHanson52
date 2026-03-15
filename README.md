@@ -1,7 +1,7 @@
 # Ben Hanson
 
 Computer Science student at the University of Colorado Colorado Springs, graduating Spring 2027.  
-I build practical software projects with a focus on Python, backend development, and systems-related work.
+Interested in Python, backend development, deployment, and practical software projects.
 
 ## About Me
 
