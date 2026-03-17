@@ -24,9 +24,11 @@ Full-stack web app for sharing and viewing off-season ski conditions in Colorado
 
 ## Tech
 
-**Languages:** Python, Java, JavaScript, SQL  
-**Tools:** Git, GitHub, Linux, VS Code  
-**Other:** SQLite, HTML, CSS
+**Programming Languages**: Python, Java, JavaScript, C, SQL, HTML/CSS, RISC-V Assembly
+**Tools & Platforms**: Git, GitHub, Linux/Unix, Bash, MariaDB, Linode, Jupyter Notebook, Vim
+**Development Environments (IDEs)**: VS Code, Eclipse
+**Web / Application Technologies**: Leaflet, WebSockets, REST APIs, bcrypt authentication
+
 
 ## Current Focus
 
